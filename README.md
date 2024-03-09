@@ -14,8 +14,7 @@ This Jupyter Notebook project, dives into key concepts of machine learning and d
 - **Noise Addition**: Investigation of the impact of noise on image classification accuracy.
 - **Synthetic Dataset Generation**: Advanced task of creating a synthetic dataset involving various shapes, colors, and sizes for further classification tasks.
 
-- ## Technology Stack
-
+## Technology Stack
 - Python
 - PyTorch
 - torchvision
